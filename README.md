@@ -1,1 +1,1 @@
-# dashboard_vendas_alura
+# dashboard_sales_training
